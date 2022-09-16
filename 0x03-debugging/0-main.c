@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - tests func that prints if an integer is + or - or zero
